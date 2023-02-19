@@ -49,7 +49,7 @@ componentDidMount(){
 }
 export default App; 
 /*
-///********************change name when button click******************************* 
+///********************change name when button click****************************** 
 // render(){
 //   return(
 //   <div className='App'>
